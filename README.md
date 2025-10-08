@@ -67,7 +67,7 @@ Follow these steps to get started locally:
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/sales-support-agent-chat.git
+git clone (https://github.com/iamishtiaq98/chat-box-custom-html-css.git)
 
 # Navigate into the project directory
 cd sales-support-agent-chat
