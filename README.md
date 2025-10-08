@@ -40,24 +40,24 @@ Provide users with instant and meaningful feedback:
 
 ### 🪄 Sales Support Chat Form
 This is where the user provides their contact details and inquiry:
-![Sales Support Form](./images/chat-box.png)
+![Sales Support Form](./chat-box.png)
 
 ### 💬 Chat Now Button
 A clear and inviting button to initiate the chat:
-![Chat Now Button](./images/chat-message-button.png)
+![Chat Now Button](./chat-message-button.png)
 
 ### 📩 Email Inquiry Example
 Sales team receives the message instantly in their inbox:
-![Email Received](./images/email-recieved.png)
+![Email Received](./email-recieved.png)
 
 ### ⚠️ Error Response
 If submission fails, the user is informed with a clear message:
 *(Example illustration below)*
-![Error Response](./images/error-response.png)
+![Error Response](./error-response.png)
 
 ### 🎉 Success Response
 A confirmation message assures the user their message was delivered:
-![Success Response](./images/success-response.png)
+![Success Response](./success-response.png)
 
 ---
 
